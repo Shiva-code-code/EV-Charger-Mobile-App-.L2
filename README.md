@@ -1,6 +1,8 @@
 # ⚡ EV Charger Mobile App - L2
 
-A full-stack mobile app built with **React Native + Expo**, designed to showcase map-based infrastructure for electric vehicle (EV) charging stations. Built as part of a technical assignment for a startup opportunity.
+A frontend mobile application built with **React Native + Expo**, designed to display nearby EV charging stations on a map, track the user’s real-time location, and enable one-tap screenshot capture and upload to **Google Drive** via OAuth.
+
+> ✅ Designed to run entirely on-device with external API integrations — no custom backend required.
 
 > ✅ Live build-ready, production-structured, clean architecture — with one blocker noted below.
 
