@@ -38,7 +38,7 @@ A frontend mobile application built with **React Native + Expo**, designed to di
 
 | Map View with Chargers | Pink Marker (You) | Capture FAB |
 |------------------------|-------------------|-------------|
-| ![Map](./assets/screenshots/map.png) | ![Marker](./assets/screenshots/pink-marker.png) | ![Capture](./assets/screenshots/fab.png) |
+| ![Map](./assets/images/Screenshot-2025-03-28-121044.png) | ![Marker](./assets/screenshots/pink-marker.png) | ![Capture](./assets/screenshots/fab.png) |
 
 ---
 
