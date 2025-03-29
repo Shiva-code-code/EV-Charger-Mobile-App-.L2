@@ -62,13 +62,6 @@ Despite successfully capturing screenshots and integrating Google Drive APIs, th
 ### Root Cause:
 Google OAuth 2.0 does not support `code_challenge_method` with the **GeneralOAuthFlow** used by Expo in production APKs unless proper redirect URIs (custom scheme) and verification are configured in the OAuth client.
 
-### Fix Requires:
-- A verified OAuth consent screen (which isn't allowed without billing)
-- Custom scheme setup + switching to `useProxy: false` in production
-- Adding `myapp:/oauthredirect` to the authorized URIs
-
-> ❗ **Blocked due to OAuth configuration restrictions on free-tier Google Cloud without organization verification.**
-
 ---
 
 ## 💡 Completion Summary
