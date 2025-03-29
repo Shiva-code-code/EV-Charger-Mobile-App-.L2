@@ -81,7 +81,7 @@ Google OAuth 2.0 does not support `code_challenge_method` with the **GeneralOAut
 ## 📦 APK Build Link
 
 > ✅ Installable APK (map, location, UI all tested):  
-🔗 [Download APK](https://expo.dev/accounts/shivahazari/projects/EvChargerApp/builds/df340f8a-2b70-449d-ba30-747e53ac7ff2)
+🔗 [Download APK]([https://expo.dev/accounts/shivahazari/projects/EvChargerApp/builds/df340f8a-2b70-449d-ba30-747e53ac7ff2](https://drive.google.com/file/d/1j21nQO4hDKOZ2R-hqKW0gB6ZPt5WcBvu/view?usp=drive_link))
 
 ---
 
